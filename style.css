@@ -1,7 +1,7 @@
 body {
-    height: 800px;
+    height: 4000px;
     background-color: darkgreen;
-    background-image: linear-gradient(darkblue, cyan, lime);
+    background-image: linear-gradient(lime, cyan, darkblue);
     background-repeat: no-repeat;
     text-align: center
 }
@@ -65,8 +65,4 @@ a:hover {
     color: pink;
     background-color: transparent;
     text-decoration: none;
-}
-
-.AboutMe {
-    color: white;
 }
